@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: (Blog, | My Octopress Blog]]></title>
+  <link href="http://maerco.github.io/blog/categories/blog/atom.xml" rel="self"/>
+  <link href="http://maerco.github.io/"/>
+  <updated>2014-05-02T15:52:06+02:00</updated>
+  <id>http://maerco.github.io/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[My First Octopressy Post!]]></title>
+    <link href="http://maerco.github.io/blog/2014/04/29/first-octopress-post/"/>
+    <updated>2014-04-29T18:09:09+02:00</updated>
+    <id>http://maerco.github.io/blog/2014/04/29/first-octopress-post</id>
+    <content type="html"><![CDATA[<p>This is my first post writte in Octopress using MarkDown text.
+My original blog is <a href="http://www.maerco.it">maerco.it</a></p>
+
+<h2>Some test in markdown</h2>
+
+<ul>
+<li>point element 1</li>
+<li>point element 2</li>
+<li>point element 3</li>
+</ul>
+
+
+<h3>Title</h3>
+
+<h2>Subtitles</h2>
+
+<p>follow <a href="http://twitter.com/maerco">@maerco</a> on Twitter</p>
+]]></content>
+  </entry>
+  
+</feed>

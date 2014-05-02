@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://maerco.github.io/sitemap.xml 
